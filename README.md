@@ -4,4 +4,4 @@
 ## This portfolio is a continual work in progress, so far containing:
 - Binary Trees (unfinished)
 - Ito calculus sampling
-- Black-Scholes-Merton (finished for Euro short call and Euro long put)
+- Black-Scholes-Merton (finished for standard Euro short call and Euro long put)
